@@ -1,0 +1,22 @@
+{
+  "name": "try-peeky",
+  "version": "1.0.0",
+  "scripts": {
+    "test:open": "peeky open",
+    "test": "peeky run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jungai/try-peeky.git"
+  },
+  "author": "jungai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jungai/try-peeky/issues"
+  },
+  "homepage": "https://github.com/jungai/try-peeky#readme",
+  "devDependencies": {
+    "@peeky/test": "^0.11.0",
+    "typescript": "^4.5.5"
+  }
+}

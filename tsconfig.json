@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "types": [
+      "@peeky/test"
+    ],
+    "esModuleInterop": true // Necessary for 'expect' typing to work
+  },
+  "include": [
+    "./src/**/*.ts"
+  ]
+}
