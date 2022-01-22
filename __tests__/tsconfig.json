@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "types": ["@peeky/test"],
+    "esModuleInterop": true
+  },
+  "include": ["./**/*.spec.ts"]
+}
